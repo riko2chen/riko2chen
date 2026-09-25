@@ -27,13 +27,26 @@
 - 🚀 Exploring AI since the GitHub Copilot Technical Preview
 - 🌍 Traveled to 60+ cities and always curious about the world
 
+<div align="center">
+
 ## Keywords
 
 ![Flutter](https://img.shields.io/badge/Flutter-161B22?style=for-the-badge&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-161B22?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=white) ![Android](https://img.shields.io/badge/Android-161B22?style=for-the-badge&logo=android&logoColor=white) ![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=white)
 
+</div>
+
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riko2chen&theme=nord_dark" alt="GitHub profile summary" />
+
+</div>
+
+<div align="center">
+
+## 
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=riko2chen&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=riko2chen&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 
 </div>
 
