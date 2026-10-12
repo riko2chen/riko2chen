@@ -35,11 +35,7 @@
 
 </div>
 
-<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riko2chen&theme=nord_dark" alt="GitHub profile summary" />
-
-</div>
 
 <div align="center">
 
