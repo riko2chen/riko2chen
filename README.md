@@ -36,16 +36,6 @@
 </div>
 
 
-
-<div align="center">
-
-## 
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=riko2chen&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=riko2chen&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</div>
-
 <br clear="both" />
 
 <div align="center">
@@ -56,4 +46,9 @@
 
 ## Open a connection
 
-[![Riko Lab](https://img.shields.io/badge/Riko%20Lab-1F6FEB?style=flat&logoColor=white)](https://rikolab.com/) [![Blog](https://img.shields.io/badge/Blog-1F6FEB?style=flat&logoColor=white)](https://rikko.top/) [![X](https://img.shields.io/badge/X-1F6FEB?style=flat&logoColor=white)](https://x.com/intent/follow?screen_name=rikolabdotcom)
+Product Website: https://rikolab.com
+
+Wechat: riko2chen
+
+X: https://x.com/rikolabdotcom
+
